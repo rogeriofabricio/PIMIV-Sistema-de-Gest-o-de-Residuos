@@ -1,0 +1,13 @@
+Cadastrado em: Sun Jun 02 10:39:49 2024
+ 
+Razao Social: RFAS Companhia Alimenticia ltda 
+Nome Fantasia: RFAS Alimentos 
+CNPJ: 10987654000198 
+Email: contato@rfasalimentos.com.br 
+Pessoa Contato: Rogerio 
+DDD: (75) Telefone: 900009999 
+Data de Abertura: 1-6-2024 
+Rua: Industrial I, Numero: 1000, Bairro: Centro Industrial 
+Cidade: Serrinha - Estado: Bahia - CEP: 48700000 
+Nome do Arquivo: rfasresiduos.txt
+

@@ -1,0 +1,10 @@
+Cadastrado em: Sun Jun 02 10:45:27 2024
+ 
+Empresa: RFAS Alimentos 
+Tipo de Residuo Gasoso: CO2 
+Quant. Residuo Gasoso: 1000,00 
+Tipo de Residuo Nao Gasoso: Metais 
+Quantidade de Residuo Nao Gasoso: 5000,00 
+Residuo Total: 1200,00 
+Data da Coleta: 1-6-2024
+
